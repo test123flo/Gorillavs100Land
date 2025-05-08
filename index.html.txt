@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>100 MEN vs 1 GORILLA - FOR HARAMBE</title>
+    <style>
+        body {
+            background: url('assets/background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            font-family: 'Courier New', monospace;
+            color: #FFD700;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-size: 70px;
+            margin-top: 50px;
+            text-shadow: 3px 3px #000;
+        }
+        h2 {
+            font-size: 40px;
+            text-shadow: 2px 2px #000;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 15px;
+            font-size: 22px;
+            color: #fff;
+            background-color: #FF4500;
+            text-decoration: none;
+            border: 3px solid #fff;
+            border-radius: 10px;
+            box-shadow: 3px 3px #000;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #FFD700;
+            color: #000;
+        }
+        .footer {
+            margin-top: 50px;
+            font-size: 14px;
+        }
+    </style>
+    <script>
+        function showWhitePaperMessage() {
+            alert('Bro, just a meme coin, no white paper. Enjoy the movement!');
+        }
+    </script>
+</head>
+<body>
+    <h1>100 MEN vs 1 GORILLA</h1>
+    <h2>FOR HARAMBE</h2>
+    <div>
+        <a href="https://t.me/+VDTo0tVQMvU0MWQ8" class="button">🐒 JOIN THE MOVEMENT 🐒</a>
+        <a href="#" class="button" onclick="showWhitePaperMessage()">📄 WHITE PAPER 📄</a>
+        <a href="#" class="button">💰 BUY THE COIN (coming soon) 💰</a>
+    </div>
+    <div class="footer">
+        <p>Made with ❤️ for the meme community. Pixel vibes, nostalgia, and pure chaos.</p>
+    </div>
+</body>
+</html>
